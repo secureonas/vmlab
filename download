@@ -1,0 +1,11 @@
+# Local config - paths, usernames, machine-specific settings
+vm-config.ps1
+
+# VMware leftovers, in case anyone clones into the repo dir
+*.lck/
+*.vmx
+*.vmdk
+*.vmem
+*.vmsn
+*.nvram
+*.log
